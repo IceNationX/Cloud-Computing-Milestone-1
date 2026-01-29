@@ -6,14 +6,14 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 In the first part of Milestone 1, the objective was to familiarize ourselves with the Google Cloud Platform (GCP) and create the project and the Pub/Sub topics.
 
 After successfully forking the repository, we utilized the `v1` and `v2` folders. By changing the name of the Project ID, we were able to successfully send messages from a smart meter simulation to a consumer script.
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ### 1. Smart Meter Simulation (V2)
 This section simulates a smart device sending data to the cloud.
@@ -28,14 +28,14 @@ For the design task, I set up a new folder and added the `Auth.json` file. I cre
 
 ---
 
-## 🎥 Video Deliverables
+##  Video Deliverables
 
 * **Smart Meter Application Demo:** [PASTE YOUR LINK HERE]
 * **Design Part Demo:** [PASTE YOUR LINK HERE]
 
 ---
 
-## 📝 Discussion
+##  Discussion
 
 ### 1. What is EDA? What are its advantages and disadvantages?
 
